@@ -1,10 +1,19 @@
 # SQL Case Studies
 
-### New Products (StrataScratch ID 10318)  
-**Objective:** Calculate net difference in launches between 2019 and 2020.  
-**Approach:** Conditional aggregation with `CASE WHEN`.  
+### 1. New Products (StrataScratch ID 10318)  
+**Objective:** 
+Calculate net difference in launches between 2019 and 2020.  
+
+**Approach:** 
+Conditional aggregation with `CASE WHEN`.  
+
 **Solution file:** [New_Products_Net_Change.sql](./New_Products_Net_Change.sql)  
-**Insight:** Chevrolet increased launches (+2), Honda decreased (-3).  
+
+**Result:**
+2
+
+**Insight:** 
+Chevrolet increased launches (+2), Honda decreased (-3).  
 
 
 ### 2. Salaries Differences (StrataScratch ID 10308)
